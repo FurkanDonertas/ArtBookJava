@@ -5,7 +5,7 @@ public class Art {
     int id ;
 
     public Art(String name, int id) {
-        this.name = name;
+        this.name = name ;
         this.id = id;
     }
 
